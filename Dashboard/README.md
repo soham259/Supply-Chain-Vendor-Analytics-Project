@@ -7,7 +7,7 @@ This project features an interactive **Power BI dashboard** that visualizes key 
 - 💰 Gross profit contribution by brand  
 - 🎯 Recommendations for promotional or pricing adjustments  
 
-👉 [🔗 View Interactive Power BI Dashboard]([https://your-public-powerbi-link.com](https://app.powerbi.com/groups/me/reports/991228d8-f240-4c92-8fe4-83370a169424/a09055c0a16804ed4443?experience=power-bi))
+👉 [🔗 View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/991228d8-f240-4c92-8fe4-83370a169424/a09055c0a16804ed4443?experience=power-bi)
 
 > _Note: Open in desktop view for the best interactive experience._
 
