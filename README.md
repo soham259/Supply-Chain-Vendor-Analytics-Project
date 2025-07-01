@@ -2,6 +2,8 @@
 
 This project analyzes vendor performance using a large dataset (1.8+ GB) comprising sales, purchases, inventory, and pricing data. The goal is to generate actionable insights and build dashboards to support data-driven decisions on vendor management and supply chain optimization.
 
+## Report 📄 [Download full report.docx](./Project%20Data%20Analysis/report.docx)
+
 ---
 
 ## 📁 Files Used
