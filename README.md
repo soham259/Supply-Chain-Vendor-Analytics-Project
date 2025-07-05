@@ -5,7 +5,9 @@ This project analyzes vendor performance using a large dataset (1.8+ GB) compris
 #### Report
 [Download Vendor Performance Report](VENDOR%20PERFORMANCE%20REPORT.docx)
 
-
+### 📊 Power BI Dashboard
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/991228d8-f240-4c92-8fe4-83370a169424/a09055c0a16804ed4443?experience=power-bi)
+*(If link not working, download pbix file)*
 
 ---
 
